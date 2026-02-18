@@ -1,6 +1,6 @@
 # One Page Cafeteria
 
-Projeto de uma landing page (one page) para uma cafetaria.
+Projeto de uma one page para uma cafetaria.
 
 O objetivo é apresentar informações essenciais como menu, localização, horários e contacto, com um layout moderno, escuro.
 
