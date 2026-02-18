@@ -8,7 +8,7 @@ O objetivo é apresentar informações essenciais como menu, localização, hor�
 
 ## Let's Access 🚀
 
-🔗 **Acesse o projeto:** https://gracianoandreleite.github.io
+🔗 **Acesse o projeto:** [https://gracianoandreleite.github.io](https://flavor-coffe-luanda.vercel.app/)
 
 ---
 
